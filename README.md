@@ -9,7 +9,9 @@
 * Skeleton
 * Font-Awesome
 
+## Kullanılan API  : 
 
+* ### https://fakestoreapi.com
 
 ![](https://i.hizliresim.com/bdp1med.PNG)
 
