@@ -17,11 +17,13 @@ const Products = () => {
         setLoading(false);
       }
       return () => {
+        
+        // eslint-disable-next-line react-hooks/exhaustive-deps
         componentMounted = false;
       };
     };
     getProducts();
-  }, []);
+  },[]);
   const Loading = () => {
     return (<>
         <div className="cold-md 3">
